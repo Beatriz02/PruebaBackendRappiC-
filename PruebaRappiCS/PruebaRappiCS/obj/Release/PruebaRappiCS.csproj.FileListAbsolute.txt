@@ -1,0 +1,4 @@
+c:\users\ytteb\documents\visual studio 2012\Projects\PruebaRappiCS\PruebaRappiCS\bin\Release\PruebaRappiCS.exe
+c:\users\ytteb\documents\visual studio 2012\Projects\PruebaRappiCS\PruebaRappiCS\bin\Release\PruebaRappiCS.pdb
+c:\users\ytteb\documents\visual studio 2012\Projects\PruebaRappiCS\PruebaRappiCS\obj\Release\PruebaRappiCS.exe
+c:\users\ytteb\documents\visual studio 2012\Projects\PruebaRappiCS\PruebaRappiCS\obj\Release\PruebaRappiCS.pdb
